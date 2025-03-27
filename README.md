@@ -1,4 +1,4 @@
-# Single Page Checkout - Fulfillment
+# Single Page Checkout - Payment
 Single page checkout micro-frontend POC Payment repo
 
 
